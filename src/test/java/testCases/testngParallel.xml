@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel Suite" parallel="tests" thread-count="4">
+
+    <!-- Test with Chrome -->
+    <test name="Test with Chrome" parallel="classes">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="testCases.SignUp" />
+            <class name="testCases.LogIn" />
+            <class name="testCases.ContactUs" />
+        </classes>
+    </test>
+
+</suite>
+

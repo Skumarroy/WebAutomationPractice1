@@ -1,0 +1,123 @@
+2024-09-12 10:12:12,574 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Setting up the browser: chrome
+2024-09-12 10:12:12,574 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Setting up the browser: chrome
+2024-09-12 10:12:15,949 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Chrome browser launched successfully.
+2024-09-12 10:12:15,949 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Chrome browser launched successfully.
+2024-09-12 10:12:15,993 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser window maximized.
+2024-09-12 10:12:15,994 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Browser window maximized.
+2024-09-12 10:12:22,277 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:12:25,242 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:12:26,945 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Closing the browser.
+2024-09-12 10:12:27,248 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Browser closed successfully.
+2024-09-12 10:12:27,250 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Setting up the browser: chrome
+2024-09-12 10:12:28,561 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Chrome browser launched successfully.
+2024-09-12 10:12:28,594 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Browser window maximized.
+2024-09-12 10:12:34,796 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:12:34,797 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Starting Registering the USer to the System
+2024-09-12 10:12:40,101 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Sign up button done
+2024-09-12 10:12:43,493 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Sign up successful
+2024-09-12 10:12:43,493 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Closing the browser.
+2024-09-12 10:12:43,754 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Browser closed successfully.
+2024-09-12 10:18:58,550 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Setting up the browser: chrome
+2024-09-12 10:18:58,550 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Setting up the browser: chrome
+2024-09-12 10:18:58,550 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Setting up the browser: chrome
+2024-09-12 10:19:01,375 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Chrome browser launched successfully.
+2024-09-12 10:19:01,375 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Chrome browser launched successfully.
+2024-09-12 10:19:01,426 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser window maximized.
+2024-09-12 10:19:01,428 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Browser window maximized.
+2024-09-12 10:19:01,573 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Chrome browser launched successfully.
+2024-09-12 10:19:01,635 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Browser window maximized.
+2024-09-12 10:19:03,874 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:19:08,807 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:19:10,736 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Closing the browser.
+2024-09-12 10:19:11,131 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser closed successfully.
+2024-09-12 10:19:13,006 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:19:13,007 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Starting Registering the USer to the System
+2024-09-12 10:23:17,133 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Setting up the browser: chrome
+2024-09-12 10:23:17,133 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Setting up the browser: chrome
+2024-09-12 10:23:19,611 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Chrome browser launched successfully.
+2024-09-12 10:23:19,660 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Browser window maximized.
+2024-09-12 10:23:19,742 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Chrome browser launched successfully.
+2024-09-12 10:23:19,788 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser window maximized.
+2024-09-12 10:23:25,656 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:23:26,946 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:23:26,947 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Starting Registering the USer to the System
+2024-09-12 10:23:28,646 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Closing the browser.
+2024-09-12 10:23:28,934 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser closed successfully.
+2024-09-12 10:23:28,939 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Setting up the browser: chrome
+2024-09-12 10:23:30,330 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Chrome browser launched successfully.
+2024-09-12 10:23:30,381 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser window maximized.
+2024-09-12 10:23:36,086 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:23:38,079 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Contact us information sent successfully
+2024-09-12 10:23:38,083 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Closing the browser.
+2024-09-12 10:23:38,308 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser closed successfully.
+2024-09-12 10:25:55,134 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Setting up the browser: chrome
+2024-09-12 10:25:55,135 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Setting up the browser: chrome
+2024-09-12 10:25:55,135 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Setting up the browser: chrome
+2024-09-12 10:25:57,997 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Chrome browser launched successfully.
+2024-09-12 10:25:57,997 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Chrome browser launched successfully.
+2024-09-12 10:25:58,155 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Browser window maximized.
+2024-09-12 10:25:58,163 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser window maximized.
+2024-09-12 10:25:58,429 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Chrome browser launched successfully.
+2024-09-12 10:25:58,473 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Browser window maximized.
+2024-09-12 10:26:04,388 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:26:05,786 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:26:07,858 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Closing the browser.
+2024-09-12 10:26:08,273 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Browser closed successfully.
+2024-09-12 10:26:09,789 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:26:09,790 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Starting Registering the USer to the System
+2024-09-12 10:53:37,920 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Setting up the browser: chrome
+2024-09-12 10:53:37,920 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Setting up the browser: chrome
+2024-09-12 10:53:37,920 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Setting up the browser: chrome
+2024-09-12 10:53:41,486 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Chrome browser launched successfully.
+2024-09-12 10:53:41,652 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Chrome browser launched successfully.
+2024-09-12 10:53:41,772 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Browser window maximized.
+2024-09-12 10:53:41,774 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Browser window maximized.
+2024-09-12 10:53:42,060 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Chrome browser launched successfully.
+2024-09-12 10:53:42,108 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser window maximized.
+2024-09-12 10:53:53,060 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:53:53,062 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Starting Registering the USer to the System
+2024-09-12 10:53:53,094 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:53:55,015 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Closing the browser.
+2024-09-12 10:53:55,312 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser closed successfully.
+2024-09-12 10:53:56,851 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:56:48,966 INFO t.BaseTest [main] Setting up the browser: chrome
+2024-09-12 10:56:50,872 INFO t.BaseTest [main] Chrome browser launched successfully.
+2024-09-12 10:56:50,912 INFO t.BaseTest [main] Browser window maximized.
+2024-09-12 10:56:56,655 INFO t.BaseTest [main] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:56:58,605 INFO t.BaseTest [main] Contact us information sent successfully
+2024-09-12 10:56:58,631 INFO t.BaseTest [main] Closing the browser.
+2024-09-12 10:56:58,872 INFO t.BaseTest [main] Browser closed successfully.
+2024-09-12 10:56:58,875 INFO t.BaseTest [main] Setting up the browser: chrome
+2024-09-12 10:57:00,018 INFO t.BaseTest [main] Chrome browser launched successfully.
+2024-09-12 10:57:00,051 INFO t.BaseTest [main] Browser window maximized.
+2024-09-12 10:57:06,591 INFO t.BaseTest [main] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:57:14,676 INFO t.BaseTest [main] Closing the browser.
+2024-09-12 10:57:14,878 INFO t.BaseTest [main] Browser closed successfully.
+2024-09-12 10:57:14,880 INFO t.BaseTest [main] Setting up the browser: chrome
+2024-09-12 10:57:15,888 INFO t.BaseTest [main] Chrome browser launched successfully.
+2024-09-12 10:57:15,922 INFO t.BaseTest [main] Browser window maximized.
+2024-09-12 10:57:34,177 INFO t.BaseTest [main] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 10:57:34,178 INFO t.BaseTest [main] Starting Registering the USer to the System
+2024-09-12 10:57:39,781 INFO t.BaseTest [main] Sign up button done
+2024-09-12 10:57:43,031 INFO t.BaseTest [main] Sign up successful
+2024-09-12 10:57:43,034 INFO t.BaseTest [main] Closing the browser.
+2024-09-12 10:57:43,241 INFO t.BaseTest [main] Browser closed successfully.
+2024-09-12 10:57:43,623 INFO t.BaseTest [main] Setting up the browser: firefox
+2024-09-12 10:57:46,903 INFO t.BaseTest [main] Firefox browser launched successfully.
+2024-09-12 10:57:46,913 INFO t.BaseTest [main] Browser window maximized.
+2024-09-12 10:57:55,675 INFO t.BaseTest [main] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 13:22:06,752 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Setting up the browser: chrome
+2024-09-12 13:22:06,752 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Setting up the browser: chrome
+2024-09-12 13:22:06,752 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Setting up the browser: chrome
+2024-09-12 13:22:10,378 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Chrome browser launched successfully.
+2024-09-12 13:22:10,378 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Chrome browser launched successfully.
+2024-09-12 13:22:10,469 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Browser window maximized.
+2024-09-12 13:22:10,471 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Browser window maximized.
+2024-09-12 13:22:10,704 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Chrome browser launched successfully.
+2024-09-12 13:22:10,746 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser window maximized.
+2024-09-12 13:22:17,268 INFO t.BaseTest [TestNG-test-Test with Chrome-3] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 13:22:18,572 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Navigated to the base URL: https://automationexercise.com/
+2024-09-12 13:22:18,574 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Starting Registering the USer to the System
+2024-09-12 13:22:20,583 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Closing the browser.
+2024-09-12 13:22:20,861 INFO t.BaseTest [TestNG-test-Test with Chrome-1] Browser closed successfully.
+2024-09-12 13:22:21,662 INFO t.BaseTest [TestNG-test-Test with Chrome-2] Navigated to the base URL: https://automationexercise.com/
