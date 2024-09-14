@@ -15,6 +15,7 @@ import utilities.ConfigReader;
 import utilities.ExtentReportListener;
 
 import java.io.FileReader;
+import java.io.IOException;
 import java.security.SecureRandom;
 import java.util.Properties;
 
@@ -23,10 +24,25 @@ public class BaseTest {
     public static WebDriver driver;
 
     public static Properties p = new Properties();
-    public static Properties loc = new Properties();
     public static FileReader fr;
-    public static final Logger logger = LogManager.getLogger(BaseTest.class);
+    public static final Logger logger = LogManager.getLogger(BaseTest.class.getName());
 
+    static {
+        try {
+            // Load the configuration properties file
+            fr = new FileReader("src/test/resources/config.properties");
+            p.load(fr);
+            logger.info("Configuration file loaded successfully.");
+
+            // Load the locators properties file (if needed)
+            fr = new FileReader("src/test/resources/locators.properties");
+            p.load(fr);
+            logger.info("Locators file loaded successfully.");
+        } catch (IOException e) {
+            logger.info("Error loading properties file: {}", e.getMessage());
+            e.printStackTrace();
+        }
+    }
     @BeforeMethod
     @Parameters("browser")
     public void setUp(@Optional("chrome") String browser) {
