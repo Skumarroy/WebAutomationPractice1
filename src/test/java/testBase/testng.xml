@@ -9,7 +9,13 @@
     <test name="Test">
         <classes>
             <class
-                    name="testBase.AllTestCases">
+                    name="testCases.SignUp">
+            </class>
+            <class
+                    name="testCases.LogIn">
+            </class>
+            <class
+                    name="testCases.ContactUs">
             </class>
         </classes>
     </test>
